@@ -30,13 +30,13 @@ In its current state the robot uses Gmapping to create a 2D map. As in any auton
 
 The following video shows the robot's dynamic obstacle avoidance. 
 
-<video src="videos/DynamicObstacleAvoidance.mp4"></video>
+<video src="videos/DynamicObstacleAvoidance.mp4" width="720" height="480" controls preload></video>
 
 
 
 Take a look at the following video to see the robot navigating to reach a desired goal:-
 
-<video src="videos/Navigation.mp4"></video>
+<video src="videos/Navigation.mp4" width="720" height="480" controls preload></video>
 
 
 
@@ -46,7 +46,7 @@ Take a look at the following video to see the robot navigating to reach a desire
 
 As mentioned earlier, the robot can autonomously explore its surroundings. This is particularly helpful when the map to be explored is large and manual teleoperation of the robot to create a map becomes arduous. 
 
-<video src="videos/Frontier Exploration.mp4"></video>
+<video src="videos/Frontier Exploration.mp4" width="720" height="480" controls preload></video>
 
 ​    
 
