@@ -29,13 +29,11 @@ It's better to have separate power sources for the motors and the single board c
 In its current state the robot uses Gmapping to create a 2D map. As in any autonomous robot, there are two path planners: A global planner and a local planner. The Global planner is responsible for finding the main path to reach the desired destination, while the local planner is responsible for modifying the global path determined by the global planner, to account for any environmental changes in the vicinity of the robot. The global planner used here is Navfn and Trajectory Planner is used as the local planner. To get the robot to maneuver reasonably well around obstacles and in tight spaces I had to spend most of my time tweaking the move_base parameters. 
 
 The following video shows the robot's dynamic obstacle avoidance. 
-
 <video src="videos/DynamicObstacleAvoidance.mp4" width="720" height="480" controls preload></video>
 
 
 
 Take a look at the following video to see the robot navigating to reach a desired goal:-
-
 <video src="videos/Navigation.mp4" width="720" height="480" controls preload></video>
 
 
@@ -45,7 +43,6 @@ Take a look at the following video to see the robot navigating to reach a desire
 #### Autonomous Map Exploration
 
 As mentioned earlier, the robot can autonomously explore its surroundings. This is particularly helpful when the map to be explored is large and manual teleoperation of the robot to create a map becomes arduous. 
-
 <video src="videos/Frontier Exploration.mp4" width="720" height="480" controls preload></video>
 
 ​    
