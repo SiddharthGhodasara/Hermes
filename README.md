@@ -55,7 +55,7 @@ AMRs are being widely used in warehouse or manufacturing operation where traditi
 
 AMRs have a great scope to be used in the mining industry as well. Mining laws require that operational mines conduct regular service inspections. These inspections ensure safe ventilation and operations. After a mine’s life is over, many laws demand rehabilitation, but inspections and duties associated with rehabilitation often are overlooked. Abandoned mines grow more hazardous as time passes for personnel to enter and conduct surveys. Navigating confined spaces with limited visibility is a better job for a mining robot. 
 
-Agriculture is a $5 trillion industry, and it’s ripe for automation. An AMR that explores crop fields, monitors crop health by analyzing data (through the use cameras), disperses pesticide and takes respective action on them is hugely desirable and would play an instrumental role in the agriculture sector.
+Agriculture is a $5 trillion industry, and it’s ripe for automation. An AMR that explores crop fields, monitors crop health by analyzing data (through the use of cameras), disperses pesticide and takes respective action on them is hugely desirable and would play an instrumental role in the agriculture sector.
 
 ------
 
@@ -81,7 +81,7 @@ I originally set out to build an AMR using a standalone micro-controller, like t
 - Microsoft Robotics Developer Studio (https://www.microsoft.com/en-in/download/details.aspx?id=29081)
 - ZeroMQ (https://zeromq.org/)
 
-But ROS seemed like the goto choice specifically because of its massive online community. And so ever since, I have been learning ROS. This project is the sole reason I first came across ROS, and therefore is dear to me. 
+But ROS seemed like the goto choice specifically because of its massive online community. I have been learning ROS, ever since. This project is the sole reason I first came across ROS, and therefore is precious to me. 
 
   
 
