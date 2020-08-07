@@ -13,7 +13,7 @@ The robot uses a micro-controller to read encoder values and calculate raw veloc
 - Teensy/Arduino (or any other equivalent micro-controller)
 - Geared 12V DC Motors with Encoders 
 - Cytron MDD3A motor driver (or any other motor driver)
-- Power source (Lipo battery for motors and DC rectification unit for AC-DC conversion)
+- Power source (Lipo battery coupled with buck converters for motors, micro-controller and single board computer)
 
 It's better to have separate power sources for the motors and the single board computer to ensure a clean supply to the latter. 
 
